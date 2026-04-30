@@ -1,0 +1,6 @@
+order_id,customer_name,category,total_price,priority,bulk_order
+1001,Acme Corp,Office Supplies,360,Normal,No
+1002,Globex Ltd,Electronics,850,Normal,No
+1003,Innova Tech,Furniture,900,Normal,No
+1004,BlueSky Inc,Office Supplies,750,Normal,Yes
+1005,NextGen Solutions,Electronics,1200,High,No
