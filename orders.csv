@@ -1,0 +1,6 @@
+order_id,customer_name,product_category,unit_price,quantity,order_date
+1001,Acme Corp,Office Supplies,120,3,2026-04-20
+1002,Globex Ltd,Electronics,850,1,2026-04-21
+1003,Innova Tech,Furniture,450,2,2026-04-22
+1004,BlueSky Inc,Office Supplies,75,10,2026-04-23
+1005,NextGen Solutions,Electronics,1200,1,2026-04-24
