@@ -2,6 +2,11 @@
 
 This project simulates a simple automation workflow for processing business orders.
 
+## How to run
+
+```bash
+python3 automation.py
+
 ## Features
 - Reads order data from CSV
 - Calculates total price
